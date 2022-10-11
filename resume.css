@@ -43,6 +43,9 @@ body {
     padding: 10px 80px;
     margin: 80px auto;
     background-image: url("purple-wallpaper-whatspaper-4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     border: solid rgb(75, 72, 72);
     border-width: 8px 0 2px 0;
 }
